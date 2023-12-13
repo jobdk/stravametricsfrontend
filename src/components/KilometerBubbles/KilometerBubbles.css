@@ -1,0 +1,11 @@
+.circle {
+    background-color: #3874CB;
+    border-radius: 50%;
+    fill-opacity: 1%;
+    float: left;
+    text-align: center;
+    color: white;
+    shape-outside: circle();
+    min-width: 50px;
+    min-height: 50px;
+}
